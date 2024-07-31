@@ -1,4 +1,4 @@
-IMDB Sentiment Analysis
+#IMDB Sentiment Analysis
 This repository contains various approaches to predicting the sentiment of movie reviews from the IMDB website. The objective is to classify reviews as either positive or negative.
 
 Files:
