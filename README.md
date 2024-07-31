@@ -10,11 +10,11 @@ This repository contains various approaches to predicting the sentiment of movie
 
 ## Data
 
-The training data for these models is available for download from the [Releases](https://github.com/your-repo/your-project/releases/tag/v1.0) section of this repository.
+The training data for these models is available for download from the [Releases](https://github.com/Albert840529/NLP-Projects/releases/tag/data) section of this repository.
 
 ## Instructions
 
-1. **Download the dataset** from the [Releases](https://github.com/your-repo/your-project/releases/tag/v1.0) section.
+1. **Download the dataset** from the [Releases](https://github.com/Albert840529/NLP-Projects/releases/tag/data) section.
 2. **Load the data** into your environment.
 3. **Follow the notebooks** to explore different models and their performance.
 
